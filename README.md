@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tohellebust
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning PostGreSQL, Tableau and starting to learn python in a few days.
-- 💞️ I’m looking to collaborate on not sure.
+- 👀 I’m interested in technical stuff
+- 🌱 I’m currently learning webdevelopment with html, css, javascript, react, nodejs, SQL and more.
+- 💞️ I’m looking to collaborate on cool stuff. 
 
 
 <!---
