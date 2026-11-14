@@ -7,7 +7,7 @@ summer 2027 — studying evenings and weekends alongside full-time work.
 - 🔧 Robot mower technician: hardware/software troubleshooting is my day job
 - 🛠️ Building a field service management system in Elixir/Phoenix
 - 🤖 Into robotics and embedded systems (ROS 2, STM32) and machine learning
-- 🧭 20 years of work experience (armed forces, technical service,
+- 🧭 20+ years of work experience (armed forces, technical service,
   customer-facing roles) — now moving into software development
 
 ## Selected projects
